@@ -3,10 +3,10 @@ import { Container } from "semantic-ui-react";
 
 const Footer = () => {
     return (
-        <footer>
+        <Container>
             <h3 id="footer">Made with React {React.version}</h3>
-        </footer>
+        </Container>
     )
 }
 
-export default Footer
+export default Footer;
