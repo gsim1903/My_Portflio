@@ -4,7 +4,7 @@ import { Container } from "semantic-ui-react";
  const About  = () => {
     return (
         <Container>
-        <h1 id="Projects-Header">My Projects</h1>
+        <h1 id="about-header">About Me</h1>
 
         <p>
         Raised in The Highlands of Scotland, Gavin initially picked up the guitar after falling in love with the anthems and melodies of Oasis and the Britpop generation. This opened the doors to their musical influences and led to a fondness of the songwriting talents of The Beatles, Paul Simon and Bob Dylan. 
