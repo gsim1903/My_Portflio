@@ -9,14 +9,14 @@ const Footer = () => {
     )
 }
 
-const Futer = () => {
-    return (
-        <Container>
+// const Futer = () => {
+//     return (
+//         <Container>
 
-        </Container>
+//         </Container>
             
-    )
-}
+//     )
+// }
 
 export default Footer
 
