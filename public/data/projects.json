@@ -1,13 +1,13 @@
 [
     {
-      "id":1,
+      "id": 1,
       "name": "My First Website",
         "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
         "description": "This was my first project."
     },
 
     {
-      "id":2,
+      "id": 2,
       "name": "FizzBuzz",
     "image": "https://as2.ftcdn.net/v2/jpg/02/83/77/45/1000_F_283774560_jirTb76UeROcfGX4HWnGghj75NehcbMB.jpg",
     "description": "Making ruby backend was an absolute hoot."
