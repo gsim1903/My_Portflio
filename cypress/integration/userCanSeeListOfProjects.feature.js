@@ -23,8 +23,8 @@ describe("User can see list of projects", () => {
     it ("is expected to display the third project", () => {
         cy.get("#project-3").within(() => {
             cy.get(".image").should("exist")
-            cy.get(".header").should("contain", "My projects")
-            cy.get(".description").should("contain", "Mobile is where it's at")
+            cy.get(".header").should("contain", "Mobile UX")
+            cy.get(".description").should("contain", "mobile is my game")
         })
     })
 })
