@@ -35,7 +35,7 @@ describe("User can see the appropriate elements of the CV section", () => {
         cy.get(".headertwo").should("contain", "Experience")
         cy.get(".headerthree").should("contain", "Extras")
 
-    })
-})
+    });
+});
 
 
