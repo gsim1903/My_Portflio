@@ -21,6 +21,7 @@ class Curriculumvitae extends Component {
         return (
             <Container>
             <h1 id="cv-header">My CV</h1>
+            
             <Grid>{curriculumvitaeList}</Grid>
             </Container>
         );
