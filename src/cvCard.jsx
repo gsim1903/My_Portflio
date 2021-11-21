@@ -1,15 +1,14 @@
 
 import React from "react";
 import { Card, Image } from "semantic-ui-react";
-import Curriculumvitae from "./cv";
 
-const CurriculumvitaeCard = ({ Curriculumvitae }) => {
+const CurriculumvitaeCard = ({ curriculumvitae }) => {
   return (
     <Card>
-      <Image src={Curriculumvitae.image} wrapped ui={false} />
+      <Image src={curriculumvitae.image} wrapped ui={false} />
       <Card.Content>
-        <Card.Header>{Curriculumvitae.name}</Card.Header>
-        <Card.Description>{Curriculumvitae.description}</Card.Description>
+        <Card.Header>{curriculumvitae.name}</Card.Header>
+        <Card.Description>{curriculumvitae.description}</Card.Description>
       </Card.Content>
     </Card>
   );

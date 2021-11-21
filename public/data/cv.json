@@ -4,19 +4,19 @@
     "name": "job experience",
       "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
       "description": "This is my job experience."
-  },
+    },
 
-  {
-    "id": 2,
-    "name": "previous eduction",
-  "image": "https://as2.ftcdn.net/v2/jpg/02/83/77/45/1000_F_283774560_jirTb76UeROcfGX4HWnGghj75NehcbMB.jpg",
-  "description": "This my previous education"
-  },
+    {
+      "id": 2,
+      "name": "previous eduction",
+    "image": "https://as2.ftcdn.net/v2/jpg/02/83/77/45/1000_F_283774560_jirTb76UeROcfGX4HWnGghj75NehcbMB.jpg",
+    "description": "This my previous education"
+    },
 
-  {
-  "id": 3,
-  "name": "Other activities ",
-  "image": "https://image.freepik.com/free-psd/website-presentation-mockup-isolated_359791-172.jpg",
-  "description": "This is some of my other activities."
-  }
+    {
+    "id": 3,
+    "name": "Other activities ",
+    "image": "https://image.freepik.com/free-psd/website-presentation-mockup-isolated_359791-172.jpg",
+    "description": "This is some of my other activities."
+    }
 ]

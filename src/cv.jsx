@@ -11,10 +11,10 @@ class Curriculumvitae extends Component {
 
     const { curriculumvitae } = this.state;
 
-        let curriculumvitaeList = curriculumvitae.map((Curriculumvitae) => {
+        let curriculumvitaeList = curriculumvitae.map((curriculumvitae) => {
             return (
-                <div id={`cv-${curriculumvitae.id}`} key={curriculumvitae.id}>
-                <curriculumvitaeCard curriculumvitae={curriculumvitae} />
+                <div id={`curriculumvitae-${curriculumvitae.id}`} key={curriculumvitae.id}>
+                <CurriculumvitaeCard curriculumvitae={curriculumvitae} />
                 </div>
             );
         });
