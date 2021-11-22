@@ -2,14 +2,14 @@
     {
     "id": 1,
     "name": "Job experience",
-      "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
+      "image": "./data/CvExp.jpg",
       "description": "This is my job experience."
     },
 
     {
       "id": 2,
       "name": "previous eduction",
-    "image": "https://as2.ftcdn.net/v2/jpg/02/83/77/45/1000_F_283774560_jirTb76UeROcfGX4HWnGghj75NehcbMB.jpg",
-    "description": "This my previous education"
+    "image": "./data/CVEdu.jpg",
+    "description": "This my Previous education"
     }
 ]

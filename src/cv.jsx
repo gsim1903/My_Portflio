@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from "axios";
-import { Container, Table } from 'semantic-ui-react';
+import { Container, Grid, Divider } from 'semantic-ui-react';
 import CurriculumvitaeCard from './cvCard';
 
 class Curriculumvitae extends Component {
@@ -21,8 +21,9 @@ class Curriculumvitae extends Component {
         return (
             <Container>
             <h1 id="cv-header">My CV</h1>
-            <p> </p>
-            <Table>{curriculumvitaeList}</Table>
+            <Divider/>
+            <Grid>{curriculumvitaeList}</Grid>
+            <Divider/>
             </Container>
         );
     };

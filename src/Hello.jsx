@@ -9,15 +9,17 @@ const Hello = () => {
             <p>
                 This site documents a crash course aka bootcamp in coding learing, undertaken by me Gavin Simpson (about me) starting in November 2021.         </p>
             <p>
-                My objectives of doing this are: 
+                My objectives of doing the course  are: 
             </p>  
-            <p>-	Development an understanding of coding, testing and software development principles.</p>  
+            <p>-	Develop an understanding of coding, testing and software development principles.</p>  
             <p>-	Learn to do some basic coding; and </p>  
             <p>-	Experience living in another country.</p>  
             
-            <p>The first two are enablers around my business aim to pivot towards developing accounting software (www.cloudfinance.co). 
+            <p>The first two are enablers around my company's strategy to pivot towards developing accounting software (www.cloudfinance.co). 
             
-            The final one is a personal tick goal tick box. Hopefully sharing progress will give some social accountability or at track my progress.  
+            The final one is a personal goal tick box. 
+            
+            Hopefully sharing progress on this site will give some social accountability or at track my progress.  
             </p>
 
         </Container>
