@@ -26,8 +26,7 @@ describe('User can navigate the app', () => {
         beforeEach(() => {
             cy.get("#projects-tab").click();
         });
-
-        it('displays My Projects header', () => {
+             it('displays My Projects header', () => {
             cy.get('#projects-header').should('contain', 'My Projects')
             })
             it('displays component name in url', () => {
